@@ -5,11 +5,13 @@
 }
 
 body {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
   height: 100vh;
   display: flex;
   align-items: center;
-  background: linear-gradient(135deg, #753a88, #b91d73);
+  background: #da22ff;
+  background: -webkit-linear-gradient(to right, #9733ee, #da22ff);
+  background: linear-gradient(to right, #9733ee, #da22ff);
   color: #fff;
 }
 

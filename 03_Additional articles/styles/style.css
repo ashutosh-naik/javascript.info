@@ -5,11 +5,13 @@
 }
 
 body {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   height: 100vh;
   display: flex;
   align-items: center;
-  background: linear-gradient(135deg, #ed213a, #93291e);
+  background: #ff416c;
+  background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c);
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
   color: #fff;
 }
 

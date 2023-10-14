@@ -5,11 +5,13 @@
 }
 
 body {
-  font-family: "PT Sans", sans-serif;
+  font-family: "Proxima Nova", Arial, Helvetica, sans-serif;
   height: 100vh;
   display: flex;
   align-items: center;
-  background: linear-gradient(135deg, #f7b733, #fc4a1a);
+  background: #ff0099;
+  background: -webkit-linear-gradient(to right, #493240, #ff0099);
+  background: linear-gradient(to right, #493240, #ff0099);
   color: #fff;
 }
 
